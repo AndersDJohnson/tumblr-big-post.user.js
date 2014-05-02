@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name       Tumblr Big Post
-// @namespace  http://use.i.E.your.homepage/
-// @version    0.1
-// @description  enter something useful
+// @namespace  https://github.com/AndersDJohnson/
+// @version    0.1.3
+// @description Big post dialog for Tumblr.
+// @autor      AndersDJohnson
 // @require    http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js
 // @require    http://rawgit.com/Box9/jss/master/jss.min.js
 // @match      http://*.tumblr.com/*
-// @copyright  2012+, You
+// @author     Anders D. Johnson
+// @copyright  2014+, Anders D. Johnson
 // ==/UserScript==
 
 (function () {
@@ -45,7 +47,7 @@
         });
     };
 
-    var check = function (label) {
+    var start = function (label) {
         //console.log('tumblr-big-post: check | ' + label + ' | ' + new Date());
         jss.set('#new_post.editing.active.data-post-type-regular', {
             position: 'absolute !important',

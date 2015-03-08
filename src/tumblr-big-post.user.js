@@ -7,7 +7,7 @@
 // @author     Anders D. Johnson
 // @require    http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js
 // @require    http://rawgit.com/Box9/jss/master/jss.min.js
-// @match      http://*.tumblr.com/*
+// @match      *://*.tumblr.com/*
 // @copyright  2014+, Anders D. Johnson
 // ==/UserScript==
 

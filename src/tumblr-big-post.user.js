@@ -3,11 +3,10 @@
 // @namespace  https://github.com/AndersDJohnson/
 // @version    0.1.3
 // @description Big post dialog for Tumblr.
-// @autor      AndersDJohnson
+// @author     Anders D. Johnson
 // @require    http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js
 // @require    http://rawgit.com/Box9/jss/master/jss.min.js
 // @match      http://*.tumblr.com/*
-// @author     Anders D. Johnson
 // @copyright  2014+, Anders D. Johnson
 // ==/UserScript==
 

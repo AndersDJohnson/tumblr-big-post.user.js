@@ -2,13 +2,14 @@
 // @name       Tumblr Big Post
 // @namespace  https://github.com/AndersDJohnson/
 // @downloadURL https://github.com/AndersDJohnson/tumblr-big-post.user.js/raw/master/src/tumblr-big-post.user.js
-// @version    1.0.0
+// @version    1.0.1
 // @description Big post dialog for Tumblr.
 // @author     Anders D. Johnson
 // @require    http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js
 // @require    http://rawgit.com/Box9/jss/master/jss.min.js
 // @match      *://*.tumblr.com/*
 // @copyright  2014+, Anders D. Johnson
+// @grant      none
 // ==/UserScript==
 
 (function () {
